@@ -1,5 +1,6 @@
 users = {"user1": "password1", "user2": "password2"}
 
+# xxx
 def login():
     username = input("Enter your username: ")
     password = input("Enter your password: ")
